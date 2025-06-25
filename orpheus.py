@@ -37,7 +37,7 @@ def banner():
     print(termcolor.BLUE + termcolor.BOLD + '_(_/_\\____@\'_██____██_██___██_██______██___██_██______██____██______██__@\'__||' + termcolor.END)
     print(termcolor.BLUE + termcolor.BOLD + '__\\|/_________██████__██___██_██______██___██_███████__██████__███████______||' + termcolor.END)
 
-    print(termcolor.LIGHTBLUE + '                   Author: ' + termcolor.WHITE + termcolor.BOLD + 'Ben Ten (@ben0xa)' + termcolor.END + termcolor.WHITE + ' - ' + termcolor.LIGHTBLUE + 'Version: ' + termcolor.WHITE + termcolor.BOLD + '0.1' + termcolor.END)
+    print(termcolor.LIGHTBLUE + '                   Author: ' + termcolor.WHITE + termcolor.BOLD + 'OrdinalExport' + termcolor.END + termcolor.WHITE + ' - ' + termcolor.LIGHTBLUE + 'Version: ' + termcolor.WHITE + termcolor.BOLD + '0.1' + termcolor.END)
     print('')
     print(termcolor.GREEN + termcolor.BOLD + '[+]' + termcolor.END + ' KDC Options:')
 
