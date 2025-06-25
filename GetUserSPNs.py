@@ -473,7 +473,7 @@ if __name__ == '__main__':
         version = "?"
         print("Cannot determine Impacket version. "
               "If running from source you should at least run \"python setup.py egg_info\"")
-    BANNER = "Impacket v{} - Copyright 2022 SecureAuth Corporation\n\nOrpheus Edition - Written by Ben0xA\n".format(version)
+    BANNER = "Impacket v{} - Copyright 2022 SecureAuth Corporation\n\nOrpheus Edition - Written by OrdinalExport\n".format(version)
     print(BANNER)
 
 
